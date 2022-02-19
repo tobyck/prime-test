@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/prime_test/__init__.py
+src/prime_test/prime.py
+src/prime_test.egg-info/PKG-INFO
+src/prime_test.egg-info/SOURCES.txt
+src/prime_test.egg-info/dependency_links.txt
+src/prime_test.egg-info/top_level.txt
