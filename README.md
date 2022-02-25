@@ -6,3 +6,5 @@ This module provides the function `test(n)` that returns `True` if `n` is a prim
 from prime_test import prime
 prime.test(167)
 ```
+
+(And I made in four other languages just becasue why not)
