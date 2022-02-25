@@ -1,6 +1,6 @@
 import random
 def test(n, k = 40):
-    if n < 2 or n % 2 == 0: return False
+    if n < 2 or (n % 2 == 0 and n > 2): return False
     if n in [2, 3]: return True
     s = n - 1
     for _ in range(k):
