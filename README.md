@@ -4,7 +4,8 @@ This module provides the function `test(n)` that returns `True` if `n` is a prim
 
 ```python
 from prime_test import prime
-prime.test(167)
+print(prime.test(167))
+# prints True
 ```
 
 (And I made in four other languages just becasue why not)
